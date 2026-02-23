@@ -18,7 +18,7 @@
 | Категория | Технологии / Инструменты |
 | --- | --- |
 | **Тест-дизайн** | Классы эквивалентности, анализ граничных значений, таблицы решений, диаграммы состояний |
-| **Документация** | [Чек-листы](https://github.com/BorhTriGalki/QA/tree/main/Test%20Artifacts), [тест-кейсы](https://github.com/BorhTriGalki/QA/tree/main/Test%20Artifacts), [баг-репорты](https://github.com/BorhTriGalki/QA/tree/main/Test%20Artifacts) |
+| **Документация** | [Чек-листы](https://github.com/BorhTriGalki/QA/tree/main/Checklists), [тест-кейсы](https://github.com/BorhTriGalki/QA/tree/main/Test-cases), [баг-репорты](https://github.com/BorhTriGalki/QA/tree/main/Bug%20report) |
 | **Веб-тестирование** | DevTools (Elements, Console, Network), кроссбраузерное тестирование |
 | **API тестирование** | Postman (коллекции, переменные, тесты), понимание REST, HTTP-методы/статусы |
 | **Базы данных** | [SQL/PLpgSQL](https://github.com/BorhTriGalki/SQL) (SELECT, JOIN, WHERE, агрегатные функции) |
