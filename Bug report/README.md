@@ -16,7 +16,7 @@
 
 > **Также при создании баг-репортов необходимо руководствоваться принципом: "Один дефект - один репорт".**
 
-## Ниже представлены баг-репорты в формате markdown, также они оформлены в [гугл-таблицах](https://docs.google.com/spreadsheets/d/1vIBWjZF1G8JyvrlG84MNJIX8T_Zqp33rNTsPcYmhONc/edit?usp=sharing).
+## Ниже представлены баг-репорты в формате markdown, также они оформлены в [гугл-таблицах](https://docs.google.com/spreadsheets/d/1vIBWjZF1G8JyvrlG84MNJIX8T_Zqp33rNTsPcYmhONc/edit?usp=sharing) (и имеют более репрезентативный вид).
 
 ### Баг-репорты
 
